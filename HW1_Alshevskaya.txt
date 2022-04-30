@@ -106,7 +106,3 @@ mv hw1/1.txt hw1/2.txt hw3
 
 enter 
 ctrl +C
-
-=====================
- tail -f 123.txt | grep help 123.txt >> 321.txt
- tail -f 123.txt | grep --line-buffered mimimi | cat >> 333.txt??????
